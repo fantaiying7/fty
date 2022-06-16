@@ -1444,9 +1444,9 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 汕头经济,http://wtv2.hodtv.tv:80/gudou9.php?id=shantouertaogaoqing_4500&/PLTV/hls.smil.m3u8
 汕头经济,http://wtv2.hodtv.tv:80/gudou9.php?id=shantouertaogaoqing_1500&/PLTV/hls.smil.m3u8
 汕头经济,rtp://239.77.1.131:5146
-汕头体育,http://2941.vicp.net:8888/udp/239.253.43.47:5146
-汕头体育,http://2941.vicp.net:8888/udp/239.77.1.132:5146
-汕头体育,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
+汕头文体,http://2941.vicp.net:8888/udp/239.253.43.47:5146
+汕头文体,http://2941.vicp.net:8888/udp/239.77.1.132:5146
+汕头文体,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
 
 
 体育🎾,#genre#
@@ -1516,19 +1516,21 @@ CCTV5+,http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?service
 广东体育,http://2941.vicp.net:8888/udp/239.77.0.112:5146
 广东体育,http://2941.vicp.net:8888/udp/239.77.0.168:5146
 广东体育,http://183.11.239.32:808/hls/109/index.m3u8
-
-纬来体育,rtmp://59.124.75.138/sat/tv722
+广东体育,http://hongyanqiang.top/chudian.php?id=gdty
+广东体育,http://116.199.5.52:8114/index.m3u8?Fsv_chan_hls_se_idx=8&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来体育,rtmp://59.124.75.150/sat/tv721
+纬来体育,rtmp://59.124.75.156/sat/tv721
+纬来体育,rtmp://59.124.75.156/sat/tv722
 纬来体育,mitv://ns2.hellotvvod.com:9906/0897e131ae134ca2a23447f8b1c23668.ts
 纬来体育,http://117.148.179.172:80/PLTV/88888888/224/3221231778/1.m3u8
 爱尔达体育1台,mitv://ns2.hellotvvod.com:9906/595998f4529e4f298cdf3149a33c1437.ts
-爱尔达体育1台mitv://ns2.hellotvvod.com:9906/e8d85cab69554439aa5088770348fb8f.ts
+爱尔达体育1台,mitv://ns2.hellotvvod.com:9906/e8d85cab69554439aa5088770348fb8f.ts
 爱尔达体育2台,mitv://ns2.hellotvvod.com:9906/d277e9d51ec74aea904176f52e2defd9.ts
 爱尔达体育2台,mitv://ns2.hellotvvod.com:9906/ea9010e14e8d4e639d63c896c1170489.ts
 爱尔达体育3台,mitv://ns2.hellotvvod.com:9906/1e5f5b63d5934513be98a24b106691ff.ts
-爱尔达体育3台mitv://ns2.hellotvvod.com:9906/1d024c698a934e908e98d158b8af0939.ts
+爱尔达体育3台,mitv://ns2.hellotvvod.com:9906/1d024c698a934e908e98d158b8af0939.ts
 ELEVEN体育2台,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts
 智林体育台,mitv://ns2.hellotvvod.com:9906/26be5742600544b497200980c8599f79.ts
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
@@ -1537,33 +1539,14 @@ ELEVEN体育2台,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4
 劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/2300000/mnf.m3u8
 魅力足球,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
 魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-WWE,http://50.7.218.42:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-ELEVEN1,http://139.227.62.63:61985/hlsok/9eec5c46/index.m3u8
-ELEVEN2,http://139.227.62.63:61985/hlsok/a4970c8d/index.m3u8
-欧洲体育,http://139.227.62.63:61985/hlsok/c3afb811/index.m3u8
-NBA动态,http://139.227.62.63:61985/hlsok/ec8e7fc2/index.m3u8
-波斯运动,rtmp://59.124.75.156/sat/md021
-波斯运动,rtmp://59.124.75.156/sat/md022
-博斯无限,http://139.227.62.63:61985/hlsok/da31cc90/index.m3u8
-博斯网球,rtmp://59.124.75.156/sat/md011
-博斯网球,rtmp://59.124.75.156/sat/md012
-博斯网球,http://139.227.62.63:61985/hlsok/bdec2954/index.m3u8
-博斯运动,http://139.227.62.63:61985/hlsok/967c8913/index.m3u8
-博斯运动,http://139.227.62.63:61985/hlsok/231c4866/index.m3u8
-博斯运动,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=112
-博斯魅力,rtmp://59.124.75.156/sat/md031
-博斯魅力,rtmp://59.124.75.156/sat/md032
-博斯魅力,rtmp://59.124.75.156/sat/md041
-博斯魅力,rtmp://59.124.75.156/sat/md042
-博斯魅力,http://139.227.62.63:61985/hlsok/5c2d477b/index.m3u8
 智林体育台,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 
 
 台湾🍄,#genre#
 
-MOMO台综合,rtmp://59.124.75.156/sat/tv761
-MOMO台综合,rtmp://59.124.75.156/sat/tv762
+MOMO台综合,rtmp://59.124.75.138/sat/tv761
+MOMO台综合,rtmp://59.124.75.150/sat/tv762
 中视,rtmp://59.124.75.156/sat/tv091
 中视,rtmp://59.124.75.156/sat/tv092
 中视,http://hd0808.top/nngtv.php?id=47
