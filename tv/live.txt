@@ -779,7 +779,6 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 湖南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225745/index.m3u8
 湖南卫视,http://jiekou.gq/dsb/iqy.php?id=180064322
 湖南卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
-湖南卫视F,http://1.195.111.251:11190/tsfile/live/0128_1.m3u8
 江苏卫视,http://111.40.196.9/PLTV/88888888/224/3221225517/index.m3u8
 江苏卫视,http://111.59.189.40:8445/tsfile/live/0127_1.m3u8
 江苏卫视,http://112.25.47.24/gitv_live/G_JIANGSU-HD-265-8M/G_JIANGSU-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
@@ -822,7 +821,6 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 江苏卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jswshd/4000000/mnf.m3u8
 江苏卫视,https://litchiapp-hls.jstv.com/lizhiapp/jsws.m3u8
 江苏卫视,https://live-hls.jstv.com/livezhuzhan/jsws.m3u8?upt=9525d28f2510710360
-江苏卫视F,http://1.195.111.251:11190/tsfile/live/0124_1.m3u8
 安徽卫视,http://111.59.189.40:8445/tsfile/live/0130_1.m3u8
 安徽卫视,http://112.25.47.24/gitv_live/G_ANHUI-HD-265-8M/G_ANHUI-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
 安徽卫视,http://112.25.47.24/gitv_live/G_ANHUI-MD/G_ANHUI-MD.m3u8?p=GITV&area=JS_CMCC_CP
@@ -1308,8 +1306,8 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 西藏卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8
 香港卫视,http://124.238.99.44:808/hls/352/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-新疆兵团卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+新疆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
 新疆卫视,http://117.148.179.160/PLTV/88888888/224/3221231451/index.m3u8
 新疆卫视,http://140.207.241.3:8080/live/program/live/xjws/1300000/d1.m3u8
 新疆卫视,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
@@ -1523,13 +1521,6 @@ CCTV5+,http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?service
 纬来体育,rtmp://59.124.75.138/sat/tv722
 纬来体育,mitv://ns2.hellotvvod.com:9906/0897e131ae134ca2a23447f8b1c23668.ts
 纬来体育,http://117.148.179.172:80/PLTV/88888888/224/3221231778/1.m3u8
-爱尔达1,mitv://ns2.hellotvvod.com:9906/595998f4529e4f298cdf3149a33c1437.ts
-爱尔达1,mitv://ns2.hellotvvod.com:9906/e8d85cab69554439aa5088770348fb8f.ts
-爱尔达2台,mitv://ns2.hellotvvod.com:9906/d277e9d51ec74aea904176f52e2defd9.ts
-爱尔达2台,mitv://ns2.hellotvvod.com:9906/ea9010e14e8d4e639d63c896c1170489.ts
-爱尔达2台,mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts
-爱尔达3台,mitv://ns2.hellotvvod.com:9906/1e5f5b63d5934513be98a24b106691ff.ts
-爱尔达3台,mitv://ns2.hellotvvod.com:9906/1d024c698a934e908e98d158b8af0939.ts
 智林体育台,mitv://ns2.hellotvvod.com:9906/26be5742600544b497200980c8599f79.ts
 五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8
 五星体育,http://111.40.196.25/PLTV/88888888/224/3221225503/index.m3u8
@@ -1658,8 +1649,8 @@ ViuTV,http://hd0808.top/nngtv.php?id=94
 有线电影台,http://hd0808.top/nngtv.php?id=61
 有线603,http://hd0808.top/nngtv.php?id=92
 有线603,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=26
-十一2 480,rtmp://59.124.75.138/sat/md051
-十一2 360,rtmp://59.124.75.138/sat/md051
+十一2,rtmp://59.124.75.138/sat/md051
+十一2,rtmp://59.124.75.138/sat/md051
 有线18台,rtmp://59.124.75.138/sat/hk042
 有线18台,http://hd0808.top/nngtv.php?id=59
 有线18台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=25
