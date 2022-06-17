@@ -1619,13 +1619,13 @@ MOMO台综合,rtmp://59.124.75.138/sat/tv762
 香港卫视台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=6
 凤凰资讯台,http://hd0808.top/nngtv.php?id=100
 凤凰资讯台,http://hd0808.top/nngtv.php?id=99
-TVB翡翠台,http://hd0808.top/nngtv.php?id=78
 TVB翡翠台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=1
 TVB翡翠台,http://hk.jilu8.cn/25/index.m3u8
-TVB明珠台,http://hd0808.top/nngtv.php?id=77
+TVB翡翠台,http://hd0808.top/nngtv.php?id=78
 TVB明珠台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=13
 TVB明珠台,http://hk.jilu8.cn/26/index.m3u8
 TVB明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
+TVB明珠台,http://hd0808.top/nngtv.php?id=77
 TVB星河台,http://hd0808.top/nngtv.php?id=76
 TVB星河台,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=14
 TVB千禧经典台,http://hd0808.top/nngtv.php?id=90
