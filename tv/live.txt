@@ -1586,7 +1586,9 @@ MOMO台综合,rtmp://59.124.75.138/sat/tv762
 中视新闻,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=60
 年代新闻,http://211.75.9.37:20050/20055
 年代新闻,http://211.75.9.37:20010/20014
-年代新闻http://pull.scphsd.com/live/45f76a9322788687c0ae4508d4220874.flv
+年代新聞,http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+年代新聞,http://eth.tv6868.com/live/98aadb37083eddd855c27feccb15dc8c5b127fd0/297b2d906811247614a31da270e19aa6/2/43e5a720-a239-4f03-9727-711f55e88e89.m3u8
+年代新闻,http://pull.scphsd.com/live/45f76a9322788687c0ae4508d4220874.flv
 年代新闻,p5p://45.92.126.18:9906/618894540002fa6c0186e66d066b3e56
 年代新闻,p5p://fccs.123178.top:9906/618894540002fa6c0186e66d066b3e56.ts
 年代新闻,p5p://fccs.123178.top:9906/618894540002fa6c0186e66d066b3e56
