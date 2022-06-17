@@ -1302,5 +1302,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/baddychen0608.jar"
+  //"spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/baddychen0608.jar"
 }
