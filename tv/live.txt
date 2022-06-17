@@ -1606,7 +1606,7 @@ MOMO台综合,rtmp://59.124.75.138/sat/tv762
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 
-香港特区,#genre#
+香港💎,#genre#
 
 
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
@@ -1680,7 +1680,7 @@ Now体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
 
 
 
-澳门特区,#genre#
+澳门🐳,#genre#
 
 澳门Macau,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=36
 澳门Macau,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=40
@@ -1719,7 +1719,7 @@ Now体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
 
 
 
-咪咕体育,#genre#
+咪咕🐅,#genre#
 
 咪咕体育_1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕体育_2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
