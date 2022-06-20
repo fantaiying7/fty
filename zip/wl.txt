@@ -311,15 +311,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "追剧官采",
-      "name": "🐝追剧官采(优)",
-      "type": 1,
-      "api": "http://gc.zhuijuba.vip/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     }
   ],
   "lives": [
