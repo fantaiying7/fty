@@ -65,7 +65,6 @@
 {"name":"青苹果","url":"http://www.aiyy.tv/xgapp.php/v1/"}
 ],
 "caijizhan": [
-{"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"快播资源","url":"http://www.kuaibozy.com/api.php"},
 {"name":"嘛哩嘛哩","url":"https://malimali3.com/api.php"},
 {"name":"293影视","url":"http://293x.yhzy.xyz/mv/api.php"},
@@ -160,7 +159,8 @@
 {"name":"鱼乐资源","url":"https://api.ylzy1.com/api.php"},
 {"name":"测试","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 {"name":"麒麟资源","url":"http://www.qilinzyz.com/api.php"},
-{"name":"CK资源","url":"http://www.feifei67.com/api.php"}
+{"name":"CK资源","url":"http://www.feifei67.com/api.php"},
+{"name":"七七","url":"http://api.kunyu77.com/api.php"}
 ],
 "lunbo": [
 {"name": "斗鱼","fanye": "aHR0cHM6Ly93d3cuZG91eXUuY29tL2dhcGkvcmtjL2RpcmVjdG9yeS9taXhMaXN0LzJfMjA4Lw==","qianzhui": "aHR0cDovL2VwZy4xMTIxMTQueHl6L2RvdXl1Lw=="},
