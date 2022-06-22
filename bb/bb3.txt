@@ -169,13 +169,17 @@
 "zhujiexi": "http://81.71.48.249:4456/jsonc/longxia.php?url=
 #https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=
 #https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url=
-#https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=
+#https://www.nxflv.com/?url=
 #http://api.vip123kan.vip/?url=
+#https://www.pangujiexi.cc/jiexi.php?url=
+#https://api.jiexi.la/?url=
 #https://vip.23at.cn/home/api?type=ys&uid=4883852&key=adfimsvxzDKNOVX389&url=
 #https://api.ldjx.cc/wp-api/getvodurl.php?token=1001&vid=
 #https://a.dxzj88.com/jxjx/dd.php?url=
 #https://a.dxzj88.com/jxrrm/jiami.php?url=
 #https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=
+#https://www.8090g.cn/?url=
+#https://www.administratorw.com/video.php?url=
 #https://vip.rongxingvr.top/api/?type=ys&key=JJEZkZIhzkA4cUtBfR&url=
 #https://jx.mczdyw.com/xg.php?url=
 #https://www.aiaine.com/api/?key=kVqmG5dAQ5dZTcECw8&url=
@@ -186,7 +190,6 @@
 #https://api.jhdyw.vip/?url=
 #https://za.kuanjv.com/?url=
 #https://jhpc.manduhu.com/j1217.php?url=
-#https://json.pangujiexi.com:12345/json.php?url=
 #http://www.youhuifuligou.com/json/?id=7&url=
 #https://json.hfyrw.com/mao.go?url=
 #https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=
