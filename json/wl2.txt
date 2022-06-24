@@ -273,17 +273,8 @@
       "filterable": 0
     },
     {
-      "key": "酷猫影视",
-      "name": "酷猫影视(聚)",
-      "type": 1,
-      "api": "https://www.pgcms10.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "兔子窝",
-      "name": "兔子窝(聚)",
+      "name": "🐝兔子窝(聚)",
       "type": 1,
       "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/",
       "searchable": 1,
@@ -291,22 +282,24 @@
       "filterable": 0
     },
     {
-      "key": "喵派对蓝光",
-      "name": "喵派对蓝光(优)",
-      "type": 1,
-      "api": "http://langaung-caicaici-ji.66yk.cn/api.php/provide/vod/",
+      "key": "csp_biubiu_789",
+      "name": "🐝789(聚)",
+      "type": 3,
+      "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/b10-789kan.js"
     },
     {
-      "key": "段友影视",
-      "name": "段友影视(优)",
-      "type": 1,
-      "api": "http://shangjihuoke.com/api.php/provide/vod/",
+      "key": "csp_XBiubiubiubiu_saohuo",
+      "name": "saohuo",
+      "type": 3,
+      "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/a07-saohuo"
     }
   ],
   "lives": [
