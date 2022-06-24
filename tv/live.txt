@@ -1,4 +1,4 @@
-##央视频道##
+央视频道,#genre#
 
 CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV1,http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8
@@ -456,7 +456,7 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 CCTV17,http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 CCTV17,http://39.135.55.105:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
 
-##央视备用##
+央视备用,#genre#
 
 CCTV-1综合,http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
 CCTV-1综合,http://112.25.47.24/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8?p=GITV&area=JS_CMCC_CP
@@ -617,7 +617,7 @@ CCTV-17农业,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
 CCTV-17农业,http://39.135.32.28:6610/PLTV/77777777/224/3221225513/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u8
 
-##卫视频道##
+卫视频道,#genre#
 
 广东卫视,http://111.40.196.9/PLTV/88888888/224/3221225533/index.m3u8
 广东卫视,http://111.59.189.40:8445/tsfile/live/0125_1.m3u8
@@ -1415,7 +1415,7 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 
-##广东省内##
+广东省内,#genre#
 
 南方卫视,http://111.20.33.93/TVOD/88888893/224/3221226218/index.m3u8
 南方卫视,http://117.148.179.160/PLTV/88888888/224/3221231661/index.m3u8
@@ -1447,7 +1447,7 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 汕头文体,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
 
 
-##体育🎾##
+体育🎾,#genre#
 
 
 CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
@@ -1544,7 +1544,7 @@ ELTA体育3,http://209.141.56.65/gtiptv/gtiptv.php?tid=gt&id=112
 PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 
 
-##台湾🍄##
+台湾🍄,#genre#
 
 MOMO台综合,rtmp://59.124.75.138/sat/tv761
 MOMO台综合,rtmp://59.124.75.138/sat/tv762
@@ -1634,7 +1634,7 @@ MOMO台综合,rtmp://59.124.75.138/sat/tv762
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
 
-##香港💎##
+香港💎,#genre#
 
 
 凤凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
@@ -1707,7 +1707,7 @@ Now体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
 
 
 
-##澳门🐳##
+澳门🐳,#genre#
 
 澳门Macau,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=36
 澳门Macau,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=40
@@ -1746,7 +1746,7 @@ Now体育,http://209.141.56.65:80/gtiptv/gtiptv.php?tid=gt&id=15
 
 
 
-##咪咕🐅##
+咪咕🐅,#genre#
 
 咪咕体育_1,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 咪咕体育_2,http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
