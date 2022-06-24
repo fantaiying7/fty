@@ -271,6 +271,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "酷猫影视",
+      "name": "酷猫影视(聚)",
+      "type": 1,
+      "api": "https://www.pgcms10.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "诺讯资源",
+      "name": "诺讯资源(官)",
+      "type": 1,
+      "api": "http://caiji.nxflv.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "293影视",
+      "name": "293影视(优)",
+      "type": 1,
+      "api": "http://293x.yhzy.xyz/mv/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "6U资源",
+      "name": "6U资源(官)",
+      "type": 1,
+      "api": "http://zy.ataoju.com/inc/apijson_vod.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
