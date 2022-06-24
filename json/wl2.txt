@@ -282,24 +282,43 @@
       "filterable": 0
     },
     {
-      "key": "csp_biubiu_789",
-      "name": "🐝789(聚)",
-      "type": 3,
-      "api": "csp_XBiubiu",
+      "key": "晓成云",
+      "name": "晓成云(官)",
+      "type": 1,
+      "api": "http://cj.cygc.xyz/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/b10-789kan.js"
+      "filterable": 0
     },
     {
-      "key": "csp_XBiubiubiubiu_saohuo",
-      "name": "saohuo",
+      "key": "乐多资源",
+      "name": "乐多资源(切)",
+      "type": 0,
+      "api": "http://cj.leduocaiji.com/inc/api.php",
+      "playUrl": "json:https://api.leduotv.com/wp-api/getvodurl.php?vid=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_XBiubiubiubiu_zxzj",
+      "name": "a03-zxzj",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/a07-saohuo"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/a03-zxzj.js"
+    },
+    {
+      "key": "csp_XBiubiubiubiu_auter",
+      "name": "auter",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/a19-auter.js"
     }
   ],
   "lives": [
