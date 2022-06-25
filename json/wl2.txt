@@ -28,8 +28,26 @@
       "filterable": 1
     },
     {
+      "key": "csp_Kuaikan",
+      "name": "👀快看(SP)",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_IKan",
+      "name": "💖爱看(SP)",
+      "type": 3,
+      "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Cokemv",
-      "name": "🐞Cokemv(SP)",
+      "name": "💢Cokemv(SP)",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -37,13 +55,50 @@
       "filterable": 1
     },
     {
-      "key": "csp_Buka",
-      "name": "🐞真不卡(SP)",
+      "key": "csp_Auete",
+      "name": "🦋Auete(SP)",
       "type": 3,
-      "api": "csp_Buka",
+      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_Buka",
+      "name": "🐼真不卡(SP)",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_n0ys",
+      "name": "💥1090影视(SP)",
+      "type": 3,
+      "api": "csp_N0ys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_BBB",
+      "name": "🅱哔哩套餐",
+      "type": 3,
+      "api": "csp_BBB",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_xpath_88kanqiu",
+      "name": "🏮88看球(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/88kanqiu.json"
     },
     {
       "key": "csp_xpath_网络搜集库qiumi",
@@ -64,6 +119,43 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/kuqimv.json"
+    },
+    {
+      "key": "csp_GitCafe",
+      "name": "📜小纸条",
+      "type": 3,
+      "api": "csp_GitCafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Alips",
+      "name": "🐱喵搜(只支持搜索)",
+      "type": 3,
+      "api": "csp_AliPanSou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "push_agent",
+      "name": "🛴推送（阿里）",
+      "type": 3,
+      "api": "csp_Ali",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_appysv2_9e国语",
+      "name": "🐝9E国语",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -226,16 +318,6 @@
       "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/505-heidong.js"
     },
     {
-      "key": "csp_xpath_A32",
-      "name": "🐌动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/604-dmd.js"
-    },
-    {
       "key": "csp_xpath_网络搜集库80",
       "name": "🐌兔子窝(XP)",
       "type": 3,
@@ -246,24 +328,14 @@
       "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/519-tuzi.json"
     },
     {
-      "key": "csp_appysv2_9e国语",
-      "name": "🐝9E国语",
+      "key": "csp_xpath_A32",
+      "name": "🐌动漫(XP)",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_XPath",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
-    },
-    {
-      "key": "csp_AppYsV2_美剧范",
-      "name": "🐝美剧",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://ttzmz.net/api.php/v1.vod"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/604-dmd.js"
     },
     {
       "key": "小猫咪",
@@ -291,6 +363,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎小苹果(SP)",
+      "type": 0,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_DY1990",
+      "name": "💢1990电影(SP)",
+      "type": 3,
+      "api": "csp_DY1990",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_DiDuan",
+      "name": "📙低端影视(SP)",
+      "type": 3,
+      "api": "csp_DiDuan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Zxzj",
+      "name": "📗在线之家(SP)",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
@@ -331,6 +439,45 @@
       "name": "线路NX",
       "type": 1,
       "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+    },
+    {
+      "name": "web1",
+      "type": 0,
+      "url": "https://www.nxflv.com/?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "qq",
+          "奇艺",
+          "sohu",
+          "letv"
+        ]
+      }
+    },
+    {
+      "name": "盘古解析",
+      "type": 1,
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果"
+        ]
+      }
     },
     {
       "name": "293",
@@ -618,24 +765,6 @@
       }
     },
     {
-      "name": "盘古解析",
-      "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果"
-        ]
-      }
-    },
-    {
       "name": "欢雨",
       "type": 1,
       "url": "http://www.youhuifuligou.com/json/?id=7&url=",
@@ -822,27 +951,6 @@
       "ext": {
         "flag": [
           "leduo"
-        ]
-      }
-    },
-    {
-      "name": "web1",
-      "type": 0,
-      "url": "https://www.nxflv.com/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺",
-          "sohu",
-          "letv"
         ]
       }
     },
@@ -1140,74 +1248,9 @@
       "url": "https://bf.ppjbk.cn/bf/?url="
     },
     {
-      "name": "m2090.",
-      "type": 1,
-      "url": "https://m2090.com/?url="
-    },
-    {
-      "name": "云解析",
-      "type": 1,
-      "url": "https://jx.ppflv.com/?url="
-    },
-    {
-      "name": "天翼解析",
-      "type": 1,
-      "url": "https://www.qianyicp.com/vip/vip_g.php?url="
-    },
-    {
-      "name": "百域",
-      "type": 1,
-      "url": "https://jx.618g.com/?url="
-    },
-    {
-      "name": "大幕",
-      "type": 1,
-      "url": "https://jx.52damu.com/dmjx/jiexi.php?url="
-    },
-    {
-      "name": "RDHK",
-      "type": 1,
-      "url": "https://jx.rdhk.net/?v="
-    },
-    {
-      "name": "淘电影",
-      "type": 1,
-      "url": "https://jx.vodjx.top/vip/?url="
-    },
-    {
-      "name": "维多",
-      "type": 1,
-      "url": "https://jx.ivito.cn/?url="
-    },
-    {
-      "name": "云端",
-      "type": 1,
-      "url": "https://sb.5gseo.net/?url="
-    },
-    {
-      "name": "七哥",
-      "type": 1,
-      "url": "https://jx.mmkv.cn/tv.php?url="
-    },
-    {
-      "name": "冰豆",
-      "type": 1,
-      "url": "https://api.qianqi.net/vip/?url="
-    },
-    {
-      "name": "迪奥",
-      "type": 1,
-      "url": "https://123.1dior.cn/?url="
-    },
-    {
       "name": "CK",
       "type": 1,
       "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "游艺",
-      "type": 1,
-      "url": "https://api.u1o.net/?url="
     },
     {
       "name": "LE",
@@ -1220,36 +1263,6 @@
       "url": "https://www.ckmov.vip/api.php?url="
     },
     {
-      "name": "playerjy/B站",
-      "type": 1,
-      "url": "https://jx.playerjy.com/?url="
-    },
-    {
-      "name": "ccyjjd",
-      "type": 1,
-      "url": "https://ckmov.ccyjjd.com/ckmov/?url="
-    },
-    {
-      "name": "爱豆",
-      "type": 1,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "诺诺",
-      "type": 1,
-      "url": "https://www.ckmov.com/?url="
-    },
-    {
-      "name": "H8",
-      "type": 1,
-      "url": "https://www.h8jx.com/jiexi.php?url="
-    },
-    {
-      "name": "BL",
-      "type": 1,
-      "url": "https://vip.bljiex.com/?v="
-    },
-    {
       "name": "解析la",
       "type": 1,
       "url": "https://api.jiexi.la/?url="
@@ -1258,11 +1271,6 @@
       "name": "MUTV",
       "type": 1,
       "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-      "name": "MAO",
-      "type": 1,
-      "url": "https://www.mtosz.com/m3u8.php?url="
     },
     {
       "name": "老板",
@@ -1295,16 +1303,6 @@
       "url": "http://60jx.com/?url="
     },
     {
-      "name": "0523",
-      "type": 1,
-      "url": "https://go.yh0523.cn/y.cy?url="
-    },
-    {
-      "name": "17云",
-      "type": 1,
-      "url": "https://www.1717yun.com/jx/ty.php?url="
-    },
-    {
       "name": "4K",
       "type": 1,
       "url": "https://jx.4kdv.com/?url="
@@ -1318,11 +1316,6 @@
       "name": "8090",
       "type": 1,
       "url": "https://www.8090g.cn/?url="
-    },
-    {
-      "name": "诺讯",
-      "type": 1,
-      "url": "https://www.nxflv.com/?url="
     }
   ],
   "flags": [
@@ -1565,5 +1558,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/bc.jar;md5;065c92f7720fa01e64086455d201cfe1"
+  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/0625.txt"
 }
