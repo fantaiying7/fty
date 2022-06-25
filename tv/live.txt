@@ -1,8 +1,5 @@
 央视频道,#genre#
-"group": "收藏2"
 
-CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
-CCTV1,http://111.40.196.9/PLTV/88888888/224/3221225513/index.m3u8
 CCTV1,http://111.40.196.9/PLTV/88888888/224/3221225548/index.m3u8
 CCTV1,http://111.40.196.9/PLTV/88888888/224/3221225769/index.m3u8
 CCTV1,http://117.148.179.155/TVOD/88888888/224/3221231468/index.m3u8
@@ -39,7 +36,6 @@ CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221226599/index.m3u8?servicet
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1
-CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV2,http://117.148.179.147/PLTV/88888888/224/3221231678/1.m3u8
 CCTV2,http://117.148.179.147/TVOD/88888888/224/3221231678/index.m3u8
 CCTV2,http://117.148.179.156/TVOD/88888888/224/3221232362/index.m3u8
@@ -61,7 +57,6 @@ CCTV2,http://39.135.55.105:6610/PLTV/88888888/224/3221225800/index.m3u8?servicet
 CCTV2,http://39.135.55.105:6610/PLTV/88888888/224/3221226795/index.m3u8?servicetype=1
 CCTV2,http://39.135.55.105:6610/PLTV/88888888/224/3221225923/index.m3u8?servicetype=1
 CCTV2,http://39.135.55.105:6610/PLTV/88888888/224/3221226915/index.m3u8?servicetype=1
-CCTV3,http://111.40.196.9/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://111.63.117.13:6060/030000001000/CCTV3/CCTV3.m3u8
 CCTV3,http://112.74.200.9:88/tv000000/m3u8.php?//624878271
 CCTV3,http://117.148.179.140/TVOD/88888888/224/3221231528/index.m3u8
@@ -1433,19 +1428,16 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 广东珠江,http://183.11.239.32:808/hls/1/index.m3u8
 汕头综合,http://2941.vicp.net:8888/udp/239.77.1.130:5146
 汕头综合,http://2941.vicp.net:8888/udp/239.253.43.45:5146
-汕头综合,http://27.36.62.163:9090/live/shantouyitaogaoqing_4500.m3u8?ci=123&srchost=172.16.149.181:8060
 汕头综合,http://dslive.grtn.cn/stzh/playlist.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,https://list.iptvcat.com/my_list/s/fa4cfe977af3bcdf7d47d17d7c2f98c.m3u8
 汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/500/n2sgKgX.m3u8
-汕头经济,http://27.36.62.163:9090/live/shantouertaogaoqing_4500.m3u8?ci=123&srchost=172.16.149.181:8060
 汕头经济,http://2941.vicp.net:8888/udp/239.77.1.131:5146
 汕头经济,http://2941.vicp.net:8888/udp/239.253.43.46:5146
 汕头经济,http://astream.apk1088.com:18888/channel.php?id=shantouertaogaoqing_4500&/PLTV/hls.smil.m3u8
 汕头经济,http://wtv2.hodtv.tv:80/gudou9.php?id=shantouertaogaoqing_4500&/PLTV/hls.smil.m3u8
 汕头经济,http://wtv2.hodtv.tv:80/gudou9.php?id=shantouertaogaoqing_1500&/PLTV/hls.smil.m3u8
 汕头经济,rtp://239.77.1.131:5146
-汕头文体,http://27.36.62.163:9090/live/shantousantaogaoqing_4500.m3u8?ci=123&srchost=172.16.149.181:8060
 汕头文体,http://2941.vicp.net:8888/udp/239.253.43.47:5146
 汕头文体,http://2941.vicp.net:8888/udp/239.77.1.132:5146
 汕头文体,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
