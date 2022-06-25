@@ -1,5 +1,7 @@
 央视频道,#genre#
-
+{
+      "group": "收藏1",
+      "channels": [
 CCTV1,http://111.40.196.9/PLTV/88888888/224/3221225548/index.m3u8
 CCTV1,http://111.40.196.9/PLTV/88888888/224/3221225769/index.m3u8
 CCTV1,http://117.148.179.155/TVOD/88888888/224/3221231468/index.m3u8
@@ -451,6 +453,9 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3
 CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
 CCTV17,http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 CCTV17,http://39.135.55.105:6610/PLTV/88888888/224/3221226986/index.m3u8?servicetype=1
+ ]
+    },
+
 
 央视备用,#genre#
 
