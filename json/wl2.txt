@@ -55,6 +55,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_IKan",
+      "name": "💖爱看(SP)",
+      "type": 3,
+      "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Buka",
       "name": "🐼真不卡(SP)",
       "type": 3,
@@ -165,7 +174,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/a13-dmxq.js"
     },
     {
@@ -185,7 +194,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/小熊影视.json"
     },
     {
@@ -316,6 +325,15 @@
       "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
+      "key": "csp_Zxzj",
+      "name": "📗在线之家(SP)",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_LiteApple",
       "name": "🍎小苹果(SP)",
       "type": 0,
@@ -343,22 +361,24 @@
       "filterable": 1
     },
     {
-      "key": "csp_Zxzj",
-      "name": "📗在线之家(SP)",
+      "key": "csp_XBiubiubiubiu_libvio111",
+      "name": "🐞libvio(XB)111",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/b14-libvio.json"
     },
     {
-      "key": "csp_IKan",
-      "name": "💖爱看(SP)",
+      "key": "csp_XBiubiubiubiu_lezhu111",
+      "name": "🐞乐猪影视(XB)111",
       "type": 3,
-      "api": "csp_IKan",
+      "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/b13-lezhu.json"
     }
   ],
   "lives": [
