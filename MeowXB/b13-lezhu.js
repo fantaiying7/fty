@@ -18,7 +18,7 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
   "sousuoqian": "/search-pg-1-wd-",
-  "sousuohou": ".html",
+  "sousuohou": ".html&limit=500",
   "sousuohouzhui": "/detail/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",
