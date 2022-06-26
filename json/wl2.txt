@@ -349,7 +349,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXB/次元城.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/次元城.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -359,7 +359,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXB/风车动漫.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/风车动漫.json"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -369,7 +369,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXB/森屋新番.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/森屋新番.json"
     },
     {
       "key": "csp_biubiu_漫岛动漫",
@@ -379,7 +379,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXB/漫岛动漫.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/漫岛动漫.json"
     },
     {
       "key": "csp_biubiu_打驴动漫",
@@ -389,7 +389,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXB/打驴动漫.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/打驴动漫.json"
     },
     {
       "key": "csp_biubiu_维奇动漫",
@@ -399,7 +399,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXB/维奇动漫.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/维奇动漫.json"
     },
     {
       "key": "csp_xpath_dmw",
@@ -409,7 +409,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://baddychen0608/MeowXP/dmw.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/dmw.json"
     },
     {
       "key": "csp_xpath_ysjdm",
@@ -419,7 +419,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "clan://baddychen0608/MeowXP/ysjdm.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/ysjdm.json"
     },
     {
       "key": "csp_xpath_age",
@@ -429,7 +429,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/agefans.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/agefans.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -439,7 +439,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/dm84.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/dm84.json"
     },
     {
       "key": "csp_xpath_yinghua",
@@ -449,7 +449,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/yinghua2.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/yinghua2.json"
     },
     {
       "key": "csp_xpath_17skr",
@@ -459,7 +459,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/17skr.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/17skr.json"
     },
     {
       "key": "csp_xpath_bttwoo",
@@ -469,57 +469,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/bttwoo.json"
-    },
-    {
-      "key": "csp_xpath_age",
-      "name": "AGE动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/agefans.json"
-    },
-    {
-      "key": "csp_xpath_dm84",
-      "name": "动漫巴士(XP)",
-      "type": 3,
-      "api": "csp_XPathFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/dm84.json"
-    },
-    {
-      "key": "csp_xpath_yinghua",
-      "name": "樱花动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/yinghua2.json"
-    },
-    {
-      "key": "csp_xpath_17skr",
-      "name": "路漫漫动漫(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/17skr.json"
-    },
-    {
-      "key": "csp_xpath_bttwoo",
-      "name": "两个BT(XP)",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "clan://baddychen0608/MeowXP/bttwoo.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/bttwoo.json"
     },
     {
       "key": "csp_IKan",
