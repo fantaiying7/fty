@@ -24,7 +24,7 @@
 
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-  "sousuohou": ".html&limit=500",
+  "sousuohou": "limit=500",
   "sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
