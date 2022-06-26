@@ -56,7 +56,7 @@
     },
     {
       "key": "csp_Auete",
-      "name": "🦋Auete(SP)",
+      "name": "💢Auete(SP)",
       "type": 3,
       "api": "csp_Auete",
       "searchable": 1,
@@ -88,6 +88,24 @@
       "api": "csp_BBB",
       "searchable": 0,
       "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Kmys",
+      "name": "酷猫影视",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Bttoo",
+      "name": "两个BT",
+      "type": 3,
+      "api": "csp_Bttoo",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1
     },
     {
