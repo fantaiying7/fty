@@ -23,8 +23,8 @@
   "lianjiehou": "\"", //列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
 
   //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
-  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=双面赘婿",
-  "sousuohou": "&limit=500",
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": ".html&limit=500",
   "sousuohouzhui": "/voddetail/", //搜索页影片跳转详情页的中间标识链接部分
   "ssmoshi": "0",
   "sousuoshifouercijiequ": "0",
