@@ -82,15 +82,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Qicui",
-      "name": "💢奇粹影视(SP)",
-      "type": 3,
-      "api": "csp_Qicui",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Buka",
       "name": "🐼真不卡(SP)",
       "type": 3,
@@ -1595,5 +1586,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/custom_spider.jar"
+  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/0625.jar"
 }
