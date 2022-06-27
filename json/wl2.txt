@@ -319,16 +319,6 @@
       "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/b11-4Kkan.js"
     },
     {
-      "key": "csp_xpath_lranc",
-      "name": "🐛天天影视(XPF)",
-      "type": 0,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/lranc.json"
-    },
-    {
       "key": "csp_xpath_dm84",
       "name": "🐛动漫巴士(XP)",
       "type": 3,
