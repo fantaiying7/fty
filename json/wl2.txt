@@ -125,8 +125,8 @@
       "name": "🐱喵搜(只支持搜索)",
       "type": 3,
       "api": "csp_AliPanSou",
-      "searchable": 1,
-      "quickSearch": 1,
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0
     },
     {
