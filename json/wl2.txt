@@ -417,16 +417,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_appys2_xiaogui_老韩综",
-      "name": "老韩综",
-      "type": 3,
-      "api": "csp_AppYs2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "xiaogui_老韩综"
     }
   ],
   "lives": [
