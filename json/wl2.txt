@@ -165,7 +165,7 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
+      "filterable": 1,
       "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/在线之家.json"
     },
     {
