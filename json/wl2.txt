@@ -355,7 +355,6 @@
       "filterable": 1,
       "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
-
     {
       "key": "小猫咪",
       "name": "🐝小猫咪(优)",
@@ -418,6 +417,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_appysv2_老韩综",
+      "name": "老韩综",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://zy.kmoonhh.com/api.php/app/"
     }
   ],
   "lives": [
@@ -425,7 +434,7 @@
       "group": "redirect",
       "channels": [
         {
-          "name": "live",
+          "name": "redirect",
           "urls": [
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmZ1dGlscy5jb20vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9mYW5ndGFpeWluL2Z0eS9tYWluL3R2L2xpdmUudHh0"
           ]
