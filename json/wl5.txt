@@ -73,15 +73,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_SP360",
-      "name": "🎾360(SP)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Buka",
       "name": "🐼真不卡(SP)",
       "type": 3,
@@ -95,6 +86,15 @@
       "name": "🐶Auete(SP)",
       "type": 3,
       "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SP360",
+      "name": "🎾360(SP)",
+      "type": 3,
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
