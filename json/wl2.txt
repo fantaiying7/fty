@@ -356,7 +356,7 @@
       "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
 
-{"key":"csp_appys_老韩综", "name":"老韩综", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.armytea.com/api.php/app/"},
+{"key":"csp_appys_老韩综", "name":"老韩综", "type":3, "api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.laohanzong2.com/api.php/app/"},
 
     {
       "key": "小猫咪",
