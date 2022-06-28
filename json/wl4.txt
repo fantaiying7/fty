@@ -396,7 +396,7 @@
       "key": "csp_DiDuan",
       "name": "低端影视",
       "type": 3,
-      "api": "csp_DiDuan",
+      "api": "csp_DiDuan$1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -405,25 +405,16 @@
       "key": "csp_Mjxq",
       "name": "美剧星球",
       "type": 3,
-      "api": "csp_Mjxq",
+      "api": "csp_Mjxq$1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "csp_N0ys",
-      "name": "csp_N0ys",
-      "type": 3,
-      "api": "csp_N0ys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_Nbys",
       "name": "csp_Nbys",
       "type": 3,
-      "api": "csp_Nbys",
+      "api": "csp_Nbys$1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -432,7 +423,7 @@
       "key": "csp_Zxzj",
       "name": "csp_Zxzj",
       "type": 3,
-      "api": "csp_Zxzj",
+      "api": "csp_Zxzj$1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
