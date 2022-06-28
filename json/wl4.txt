@@ -368,7 +368,7 @@
     {
       "key": "if101资源",
       "name": "✈️if101(海外推荐)",
-      "type": 0,
+      "type": 1,
       "api": "https://demo.if101.tv/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 0,
