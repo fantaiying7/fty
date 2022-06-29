@@ -364,6 +364,24 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "苹果采集",
+      "name": "🐝苹果采集",
+      "type": 1,
+      "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "酷猫影视",
+      "name": "🐝酷猫影视",
+      "type": 1,
+      "api": "https://www.pgcms10.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
