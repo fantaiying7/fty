@@ -92,14 +92,14 @@
       "ext": "https://fangtaiyin.github.io/fty/MeowXP/88kanqiu.json"
     },
     {
-      "key": "csp_xpath_网络搜集库qiumi",
+      "key": "csp_xpath_qiumi",
       "name": "🏀球迷(XPF)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXP/516-qiumi.js"
+      "ext": "https://fangtaiyin.github.io/fty/MeowXP/qiumi.json"
     },
     {
       "key": "csp_xpath_kuqimv",
