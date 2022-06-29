@@ -349,16 +349,6 @@
       "ext": "https://fangtaiyin.github.io/fty/MeowXP/dm84.json"
     },
     {
-      "key": "csp_appysv2_9e国语",
-      "name": "🐝9E国语",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
-    },
-    {
       "key": "小猫咪",
       "name": "🐝小猫咪(优)",
       "type": 1,
