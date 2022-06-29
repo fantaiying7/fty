@@ -359,20 +359,10 @@
       "ext": "https://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
-      "key": "csp_appysv2_300看世界",
-      "name": "🐌300看世界(v2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
-    },
-    {
       "key": "小猫咪",
       "name": "🐝小猫咪(优)",
       "type": 1,
-      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod/",
+      "api": "https://vod.9e03.com/lvdou_api.php/v1.vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -426,14 +416,14 @@
       "url": "Sequence"
     },
     {
-      "name": "线路m9",
-      "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
-    },
-    {
       "name": "线路NX",
       "type": 1,
       "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
+    },
+    {
+      "name": "线路m9",
+      "type": 1,
+      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="
     },
     {
       "name": "Pro",
@@ -472,6 +462,27 @@
           "优酷",
           "mgtv",
           "芒果"
+        ]
+      }
+    },
+    {
+      "name": "web1",
+      "type": 0,
+      "url": "https://www.nxflv.com/?url=",
+      "ext": {
+        "flag": [
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "qq",
+          "奇艺",
+          "sohu",
+          "letv"
         ]
       }
     },
@@ -531,52 +542,6 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
-        ]
-      }
-    },
-    {
-      "name": "人人迷",
-      "type": 1,
-      "url": "https://jx.blbo.cc:4433/?url="
-    },
-    {
-      "name": "renrenmi2",
-      "type": 1,
-      "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
-      "ext": {
-        "flag": [
-          "renrenmi"
-        ]
-      }
-    },
-    {
-      "name": "renrenmi3",
-      "type": 1,
-      "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
-      "ext": {
-        "flag": [
-          "renrenmi"
-        ]
-      }
-    },
-    {
-      "name": "web1",
-      "type": 0,
-      "url": "https://www.nxflv.com/?url=",
-      "ext": {
-        "flag": [
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "qq",
-          "奇艺",
-          "sohu",
-          "letv"
         ]
       }
     },
@@ -1073,136 +1038,6 @@
       "name": "纯净/B站",
       "type": 1,
       "url": "https://z1.m1907.cn/?jx="
-    },
-    {
-      "name": "高速接口",
-      "type": 1,
-      "url": "https://jsap.attakids.com/?url="
-    },
-    {
-      "name": "OK解析",
-      "type": 1,
-      "url": "https://okjx.cc/?url="
-    },
-    {
-      "name": "OK解析2",
-      "type": 1,
-      "url": "https://api.okjx.cc:3389/jx.php?url="
-    },
-    {
-      "name": "夜幕",
-      "type": 1,
-      "url": "https://www.yemu.xyz/?url="
-    },
-    {
-      "name": "乐多资源",
-      "type": 1,
-      "url": "https://api.leduotv.com/wp-api/ifr.php?isDp=1&vid="
-    },
-    {
-      "name": "爱豆",
-      "type": 1,
-      "url": "https://jx.aidouer.net/?url="
-    },
-    {
-      "name": "虾米",
-      "type": 1,
-      "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "M3U8.TV",
-      "type": 1,
-      "url": "https://jx.m3u8.tv/jiexi/?url="
-    },
-    {
-      "name": "全民",
-      "type": 1,
-      "url": "https://jx.quanmingjiexi.com/?url="
-    },
-    {
-      "name": "全民2",
-      "type": 1,
-      "url": "https://chaxun.truechat365.com/?url="
-    },
-    {
-      "name": "PPJ解析",
-      "type": 1,
-      "url": "https://jx.ppjbk.cn/?url="
-    },
-    {
-      "name": "PPJ弹幕解析2",
-      "type": 1,
-      "url": "https://bf.ppjbk.cn/bf/?url="
-    },
-    {
-      "name": "CK",
-      "type": 1,
-      "url": "https://www.ckplayer.vip/jiexi/?url="
-    },
-    {
-      "name": "LE",
-      "type": 1,
-      "url": "https://lecurl.cn/?url="
-    },
-    {
-      "name": "ckmov",
-      "type": 1,
-      "url": "https://www.ckmov.vip/api.php?url="
-    },
-    {
-      "name": "解析la",
-      "type": 1,
-      "url": "https://api.jiexi.la/?url="
-    },
-    {
-      "name": "MUTV",
-      "type": 1,
-      "url": "https://jiexi.janan.net/jiexi/?url="
-    },
-    {
-      "name": "老板",
-      "type": 1,
-      "url": "https://vip.laobandq.com/jiexi.php?url="
-    },
-    {
-      "name": "盘古",
-      "type": 1,
-      "url": "https://www.pangujiexi.cc/jiexi.php?url="
-    },
-    {
-      "name": "盖世",
-      "type": 1,
-      "url": "https://www.gai4.com/?url="
-    },
-    {
-      "name": "小蒋",
-      "type": 1,
-      "url": "https://www.kpezp.cn/jlexi.php?url="
-    },
-    {
-      "name": "YiTV",
-      "type": 1,
-      "url": "https://jiexi.us/?url="
-    },
-    {
-      "name": "星空",
-      "type": 1,
-      "url": "http://60jx.com/?url="
-    },
-    {
-      "name": "4K",
-      "type": 1,
-      "url": "https://jx.4kdv.com/?url="
-    },
-    {
-      "name": "云析",
-      "type": 1,
-      "url": "https://jx.yparse.com/index.php?url="
-    },
-    {
-      "name": "8090",
-      "type": 1,
-      "url": "https://www.8090g.cn/?url="
     }
   ],
   "flags": [
