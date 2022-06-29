@@ -382,6 +382,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "酷云七七",
+      "name": "酷云七七",
+      "type": 1,
+      "api": "http://api.kunyu77.com/api.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
