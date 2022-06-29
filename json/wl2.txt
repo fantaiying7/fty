@@ -89,7 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXP/88kanqiu.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/88kanqiu.json"
     },
     {
       "key": "csp_xpath_qiumi",
@@ -99,7 +99,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXP/qiumi.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/qiumi.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -109,7 +109,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXP/kuqimv.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/kuqimv.json"
     },
     {
       "key": "csp_GitCafe",
@@ -146,7 +146,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/真不卡cerrd(ns).json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/真不卡cerrd(ns).json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -156,7 +156,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/蓝光影视.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/蓝光影视.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -166,7 +166,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/在线之家.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/在线之家.json"
     },
     {
       "key": "csp_XBiubiubiubiu_libvio",
@@ -176,7 +176,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/LIBVIO.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/LIBVIO.json"
     },
     {
       "key": "csp_biubiu_VIP1280",
@@ -186,7 +186,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/VIP1280.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/VIP1280.json"
     },
     {
       "key": "csp_biubiu_口袋影院",
@@ -196,7 +196,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/口袋影院.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/口袋影院.json"
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
@@ -206,7 +206,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/影视工厂.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/影视工厂.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -216,7 +216,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/骚火电影.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/骚火电影.json"
     },
     {
       "key": "csp_biubiu_剧白白",
@@ -226,7 +226,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/剧白白-蓝光.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/剧白白-蓝光.json"
     },
     {
       "key": "csp_biubiu_黑洞影视",
@@ -236,7 +236,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/黑洞影视.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/黑洞影视.json"
     },
     {
       "key": "csp_biubiu_小熊影视",
@@ -246,7 +246,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/小熊影视.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/小熊影视.json"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -256,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/a13-dmxq.js"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/a13-dmxq.js"
     },
     {
       "key": "csp_biubiu_87影院",
@@ -266,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/87影院.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/87影院.json"
     },
     {
       "key": "csp_biubiu_小强迷",
@@ -276,7 +276,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/小强迷.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/小强迷.json"
     },
     {
       "key": "csp_biubiu_火火影视",
@@ -286,7 +286,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/火火影视.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/火火影视.json"
     },
     {
       "key": "csp_XBiubiubiubiu_lezhu",
@@ -296,7 +296,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/乐猪影视.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_爱港剧",
@@ -306,7 +306,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/爱港剧.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/爱港剧.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -316,7 +316,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/tegou.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/tegou.json"
     },
     {
       "key": "csp_XBiubiubiubiu_555",
@@ -326,17 +326,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/b01-555dy.js"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/b01-555dy.js"
     },
     {
-      "key": "csp_XBiubiubiubiu_4kan电影网",
+      "key": "csp_XBiubiu_4kan电影网",
       "name": "🐞4k网(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXB/b11-4Kkan.js"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/b11-4Kkan.js"
     },
     {
       "key": "csp_xpath_dm84",
@@ -346,7 +346,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fangtaiyin.github.io/fty/MeowXP/dm84.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/dm84.json"
     },
     {
       "key": "小猫咪",
@@ -1270,5 +1270,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://fangtaiyin.github.io/fty/jar/bc0627.jar"
+  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/bc0627.jar"
 }
