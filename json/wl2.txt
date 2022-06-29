@@ -89,7 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/88kanqiu.json"
+      "ext": "https://fangtaiyin.github.io/fty/MeowXP/88kanqiu.json"
     },
     {
       "key": "csp_xpath_网络搜集库qiumi",
@@ -99,7 +99,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/516-qiumi.js"
+      "ext": "https://fangtaiyin.github.io/fty/MeowXP/516-qiumi.js"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -109,7 +109,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXP/kuqimv.json"
+      "ext": "https://fangtaiyin.github.io/fty/MeowXP/kuqimv.json"
     },
     {
       "key": "csp_GitCafe",
