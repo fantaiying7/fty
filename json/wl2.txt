@@ -356,7 +356,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
+      "ext": "https://vod.9e03.com/lvdou_api.php"
+    },
+    {
+      "key": "csp_appysv2_300看世界",
+      "name": "🐌300看世界(v2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
     },
     {
       "key": "小猫咪",
