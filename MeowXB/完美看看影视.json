@@ -4,7 +4,7 @@
   "tihuan": "cnzz.com",
   "User": "空",
   "shouye": "1",
-  "fenlei": "电影$/category/1-#国产剧$/category/5-#欧美剧$/category/2-#韩剧$/category/3-#动漫$/category/6-#泰剧$/category/9-#纪录片$/category/10-", //列表的分类
+  "fenlei": "fenlei": "电影$/category/1/page/#欧美剧$/category/2/page/#韩剧$/category/3/page/#日剧$/category/4/page/#国产剧$/category/5/page/#动漫$/category/6/page/#预告片$/category/8/page/#泰剧$/category/9/page/#记录片$/category/10/page/", //列表的分类
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "class=\"stui-vodlist__box stui-vodlist__bg",
