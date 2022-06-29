@@ -235,7 +235,18 @@
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/骚火电影.json"
+    },
+    {
+      "key": "csp_biubiu_完美看看",
+      "name": "🐞完美看看(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/完美看看.json"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -315,7 +326,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://raw.fastgit.org/liu673cn/mao/main/sub/biubiu/爱港剧.json"
+      "ext": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/MeowXB/爱港剧.json"
     },
     {
       "key": "csp_XBiubiubiubiu_4kan电影网",
@@ -370,15 +381,6 @@
       "name": "🐝8090资源(官)",
       "type": 1,
       "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "苹果采集",
-      "name": "🐝苹果采集",
-      "type": 1,
-      "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
