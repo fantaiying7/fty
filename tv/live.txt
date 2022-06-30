@@ -1442,19 +1442,20 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 广东珠江,http://183.63.15.42:9901/tsfile/live/0109_1.m3u8
 广东珠江,http://183.11.239.32:808/hls/12/index.m3u8
 广东珠江,http://183.11.239.32:808/hls/1/index.m3u8
-汕头综合,rtp://239.77.1.130:5146
-汕头综合,rtp://239.253.43.45:5146
+汕头综合,rtp://239.253.43.30:5146
+汕头综合,rtp://239.253.43.45:5146?ChannelFECPort=01
+汕头综合,rtsp://125.88.52.18/PLTV/88888895/224/3221227425/10000100000000060000000003869066_0.smil?icpid=1&GuardEncType=1&accountinfo=%7E%7EV2.0%7EMwuATk9uK0uaK85CWTmxXg%7EYnimjO4R01EA_Sx25XxBF4vO4cg03e5Gkss5cldS7tb361whVbB_FZPBgkWfuMYWf_USSLDVq_y3dBWI4QuYU7lH4V3wTT2K0bT1l2jpuZY~ExtInfoWNHSPSTb+3AG0FnUkYLPMw:20220202020202,id=01
 汕头综合,http://dslive.grtn.cn/stzh/playlist.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头综合,https://list.iptvcat.com/my_list/s/fa4cfe977af3bcdf7d47d17d7c2f98c.m3u8
 汕头综合,https://sttv-tsl.cutv.com/lKGXIQa/500/n2sgKgX.m3u8
-汕头经济,rtp://239.77.1.131:5146
+汕头经济,rtp://239.253.43.43:5146
 汕头经济,rtp://239.253.43.46:5146
 汕头经济,http://astream.apk1088.com:18888/channel.php?id=shantouertaogaoqing_4500&/PLTV/hls.smil.m3u8
 汕头经济,http://wtv2.hodtv.tv:80/gudou9.php?id=shantouertaogaoqing_4500&/PLTV/hls.smil.m3u8
 汕头经济,http://wtv2.hodtv.tv:80/gudou9.php?id=shantouertaogaoqing_1500&/PLTV/hls.smil.m3u8
 汕头经济,rtp://239.77.1.131:5146
-汕头文体,rtp://239.77.1.132:5146
+汕头文体,rtp://239.253.43.44:5146
 汕头文体,rtp://239.253.43.47:5146
 汕头文体,http://fxhack.f3322.org:8000/udp/239.77.1.132:5146
 
