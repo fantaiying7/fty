@@ -46,13 +46,13 @@
       "filterable": 1
     },
     {
-      "key": "csp_Buka",
-      "name": "🐼真不卡(SP)",
+      "key": "spider_Bttoo",
+      "name": "📚2BT(SP)",
       "type": 3,
-      "api": "csp_Buka",
+      "api": "csp_Bttoo",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "csp_Auete",
@@ -71,6 +71,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_Buka",
+      "name": "🐼真不卡(SP)",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     },
     {
       "key": "csp_BBB",
@@ -1270,5 +1279,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/bc0627.jar"
+  "spider": "https://ghproxy.futils.com/raw.githubusercontent.com/fangtaiyin/fty/main/jar/bc0630.jar"
 }
