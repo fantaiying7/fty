@@ -1,2 +1,6 @@
 # fty
 ![68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f70686f746f732f696d616765732f3230323131303331313932343834342e706e67](https://user-images.githubusercontent.com/107107882/177042925-e4313b95-a59b-4796-9e28-3472f539420b.png)
+
+
+License
+auto-green is released under the MIT License. See the bundled LICENSE file for details
