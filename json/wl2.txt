@@ -187,7 +187,7 @@
       "ext": "https://ftyyy.tk/MeowXB/在线之家.json"
     },
     {
-      "key": "csp_XBiubiubiubiu_libvio",
+      "key": "csp_XBiubiu_libvio",
       "name": "🐞libvio(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
@@ -217,7 +217,7 @@
       "ext": "https://ftyyy.tk/MeowXB/口袋影院.json"
     },
     {
-      "key": "csp_XBiubiubiubiu_ysgc",
+      "key": "csp_XBiubiu_ysgc",
       "name": "🐞影视工厂(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
@@ -307,7 +307,7 @@
       "ext": "https://ftyyy.tk/MeowXB/火火影视.json"
     },
     {
-      "key": "csp_XBiubiubiubiu_lezhu",
+      "key": "csp_XBiubiu_lezhu",
       "name": "🐞乐猪影视(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
@@ -337,7 +337,7 @@
       "ext": "https://ftyyy.tk/MeowXB/tegou.json"
     },
     {
-      "key": "csp_XBiubiubiubiu_555",
+      "key": "csp_XBiubiu_555",
       "name": "🐞555电影(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
@@ -499,24 +499,6 @@
       }
     },
     {
-      "name": "盘古解析",
-      "type": 1,
-      "url": "https://json.pangujiexi.com:12345/json.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果"
-        ]
-      }
-    },
-    {
       "name": "parwix1",
       "type": 0,
       "url": "https://jx.parwix.com:4433/player/?url=",
@@ -539,6 +521,24 @@
           "bilibili",
           "哔哩哔哩",
           "哔哩"
+        ]
+      }
+    },
+    {
+      "name": "盘古解析",
+      "type": 1,
+      "url": "https://json.pangujiexi.com:12345/json.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果"
         ]
       }
     },
@@ -743,17 +743,6 @@
       "name": "纯净/B站",
       "type": 1,
       "url": "https://z1.m1907.cn/?jx="
-    },
-    {
-      "name": "hfyrw",
-      "type": 1,
-      "url": "https://json.hfyrw.com/mao.go?url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi"
-        ]
-      }
     },
     {
       "name": "parwix2",
