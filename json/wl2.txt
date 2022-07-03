@@ -434,6 +434,26 @@
       "url": "https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="
     },
     {
+      "name": "293",
+      "type": 1,
+      "url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "qiyi",
+          "mgtv",
+          "youku",
+          "letv",
+          "sohu",
+          "xigua",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "Dart/2.14 (dart:io)"
+        }
+      }
+    },
+    {
       "name": "江湖解析",
       "type": 1,
       "url": "https://api.jhdyw.vip/?url=",
@@ -576,17 +596,6 @@
       "ext": {
         "flag": [
           "bilibili"
-        ]
-      }
-    },
-    {
-      "name": "hfyrw",
-      "type": 1,
-      "url": "https://json.hfyrw.com/mao.go?url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi"
         ]
       }
     },
@@ -734,6 +743,17 @@
       "name": "纯净/B站",
       "type": 1,
       "url": "https://z1.m1907.cn/?jx="
+    },
+    {
+      "name": "hfyrw",
+      "type": 1,
+      "url": "https://json.hfyrw.com/mao.go?url=",
+      "ext": {
+        "flag": [
+          "ltnb",
+          "renrenmi"
+        ]
+      }
     },
     {
       "name": "parwix2",
