@@ -83,7 +83,7 @@
     },
     {
       "key": "csp_appys_美剧虫",
-      "name": "⚾️美剧虫(V1)",
+      "name": "🐝美剧虫(V1)",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
@@ -93,7 +93,7 @@
     },
     {
       "key": "300看世界",
-      "name": "🥎300看世界(V2)",
+      "name": "🐝300看世界(V2)",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
