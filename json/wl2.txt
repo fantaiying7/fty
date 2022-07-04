@@ -82,15 +82,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_SP360",
-      "name": "🎾360(SP)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_appys_美剧虫",
       "name": "⚾️美剧虫(V1)",
       "type": 3,
@@ -99,6 +90,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://meijuchong.com/api.php/v1.vod"
+    },
+    {
+      "key": "300看世界",
+      "name": "🥎300看世界(V2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_BBB",
@@ -158,8 +159,17 @@
       "filterable": 0
     },
     {
+      "key": "csp_SP360",
+      "name": "🎾360(SP)",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "push_agent",
-      "name": "推送",
+      "name": "✈️推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
@@ -337,36 +347,6 @@
       "ext": "https://ftyyy.tk/MeowXB/b01-555dy.js"
     },
     {
-      "key": "csp_biubiu_九亿资源",
-      "name": "🐞九亿资源(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ftyyy.tk/MeowXB/9亿资源.json"
-    },
-    {
-      "key": "爱看美剧",
-      "name": "🥎爱看美剧(V2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://www.uumjw.com/api.php/v1.vod"
-    },
-    {
-      "key": "300看世界",
-      "name": "🥎300看世界(V2)",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
-    },
-    {
       "key": "csp_xpath_dm84",
       "name": "🐛动漫巴士(XP)",
       "type": 3,
@@ -375,15 +355,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/dm84.json"
-    },
-    {
-      "key": "csp_xml__淘片资源",
-      "name": "🐝淘片资源",
-      "type": 1,
-      "api": "https://taopianapi.com/home/cjapi/as/mc/vod/json",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     },
     {
       "key": "csp_xml___小猫咪",
@@ -658,16 +629,6 @@
       }
     },
     {
-      "name": "LTRX",
-      "type": 1,
-      "url": "https://svip.spchat.top/api/?type=ys&key=bKemW41JnxmQb4l67h&url=",
-      "ext": {
-        "flag": [
-          "rx"
-        ]
-      }
-    },
-    {
       "name": "OJBK",
       "type": 0,
       "url": "https://jmwl.qd234.cn/v/?v=",
@@ -743,11 +704,6 @@
           "ltnb"
         ]
       }
-    },
-    {
-      "name": "综合线路解析",
-      "type": 1,
-      "url": "https://laisoyiba.com/mov/s/?sv=3&url="
     },
     {
       "name": "纯净/B站",
