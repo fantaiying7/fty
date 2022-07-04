@@ -347,6 +347,16 @@
       "ext": "https://ftyyy.tk/MeowXB/9亿资源.json"
     },
     {
+      "key": "爱看美剧",
+      "name": "🥎爱看美剧(V2)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://www.uumjw.com/api.php/v1.vod"
+    },
+    {
       "key": "300看世界",
       "name": "🥎300看世界(V2)",
       "type": 3,
