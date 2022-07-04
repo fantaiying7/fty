@@ -73,6 +73,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_Buka",
+      "name": "🐼真不卡(SP)",
+      "type": 3,
+      "api": "csp_Buka",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "csp_SP360",
       "name": "🎾360(SP)",
       "type": 3,
@@ -82,13 +91,41 @@
       "filterable": 1
     },
     {
-      "key": "csp_Buka",
-      "name": "🐼真不卡(SP)",
+      "key": "csp_DY1990",
+      "name": "🐞九零影视",
       "type": 3,
-      "api": "csp_Buka",
+      "api": "csp_DY1990",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "csp_Kmys",
+      "name": "🐞酷猫影视",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mjxq_spider",
+      "name": "🐞美剧星球",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_appys_美剧虫",
+      "name": "⚾️美剧虫(V1)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://meijuchong.com/api.php/v1.vod"
     },
     {
       "key": "csp_BBB",
@@ -157,14 +194,14 @@
       "filterable": 0
     },
     {
-      "key": "csp_biubiu_真不卡cerrd",
-      "name": "🐞真不卡1(NS)",
+      "key": "csp_biubiu_厂长资源",
+      "name": "🐞厂长蓝光(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ftyyy.tk/MeowXB/真不卡cerrd(ns).json"
+      "filterable": 0,
+      "ext": "https://ftyyy.tk/MeowXB/厂长资源-蓝光.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -347,14 +384,14 @@
       "ext": "https://ftyyy.tk/MeowXB/b01-555dy.js"
     },
     {
-      "key": "csp_XBiubiu_4kan电影网",
-      "name": "🐞4k网(XB)",
+      "key": "csp_biubiu_小猫咪",
+      "name": "🐞小 猫 咪(XP)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ftyyy.tk/MeowXB/b11-4Kkan.js"
+      "filterable": 0,
+      "ext": "https://ftyyy.tk/MeowXB/小猫咪.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -367,23 +404,13 @@
       "ext": "https://ftyyy.tk/MeowXP/dm84.json"
     },
     {
-      "key": "csp_appys_美剧虫",
-      "name": "⚾️美剧虫(V1)",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://meijuchong.com/api.php/v1.vod"
-    },
-    {
-      "key": "小猫咪",
-      "name": "🐝小猫咪(优)",
+      "key": "csp_xml___200121",
+      "name": "🐝200121",
       "type": 1,
-      "api": "https://vod.9e03.com/lvdou_api.php/v1.vod",
+      "api": "https://www.200121.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     },
     {
       "key": "天堂资源",
@@ -395,13 +422,13 @@
       "filterable": 1
     },
     {
-      "key": "8090资源",
-      "name": "🐝8090资源(官)",
+      "key": "csp_xml___光速资源",
+      "name": "🐝光速资源",
       "type": 1,
-      "api": "http://zy.yilans.net:8090/api.php/provide/vod/",
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0
     }
   ],
   "lives": [
