@@ -167,16 +167,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_biubiu_厂长资源",
-      "name": "🐞厂长蓝光(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ftyyy.tk/MeowXB/厂长资源-蓝光.json"
-    },
-    {
       "key": "csp_biubiu_蓝光影院",
       "name": "🐞蓝光影院(XB)",
       "type": 3,
@@ -347,6 +337,16 @@
       "ext": "https://ftyyy.tk/MeowXB/b01-555dy.js"
     },
     {
+      "key": "csp_biubiu_九亿资源",
+      "name": "🐞九亿资源(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ftyyy.tk/MeowXB/9亿资源.json"
+    },
+    {
       "key": "300看世界",
       "name": "🥎300看世界(V2)",
       "type": 3,
@@ -370,14 +370,14 @@
       "key": "csp_xml__淘片资源",
       "name": "🐝淘片资源",
       "type": 1,
-      "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
+      "api": "https://taopianapi.com/home/cjapi/as/mc/vod/json",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
     },
     {
       "key": "csp_xml___小猫咪",
-      "name": "🐝小 猫 咪",
+      "name": "🐝小猫咪",
       "type": 1,
       "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
