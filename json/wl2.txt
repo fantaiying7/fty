@@ -91,33 +91,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_DY1990",
-      "name": "🐞九零影视",
-      "type": 3,
-      "api": "csp_DY1990",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Kmys",
-      "name": "🐞酷猫影视",
-      "type": 3,
-      "api": "csp_Kmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "mjxq_spider",
-      "name": "🐞美剧星球",
-      "type": 3,
-      "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_appys_美剧虫",
       "name": "⚾️美剧虫(V1)",
       "type": 3,
@@ -186,7 +159,7 @@
     },
     {
       "key": "push_agent",
-      "name": "🛴推送",
+      "name": "推送",
       "type": 3,
       "api": "csp_PushAgent",
       "searchable": 0,
@@ -324,16 +297,6 @@
       "ext": "https://ftyyy.tk/MeowXB/87影院.json"
     },
     {
-      "key": "csp_biubiu_小强迷",
-      "name": "🐞小强迷(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ftyyy.tk/MeowXB/小强迷.json"
-    },
-    {
       "key": "csp_biubiu_火火影视",
       "name": "🐞火火影视(XB)",
       "type": 3,
@@ -384,14 +347,14 @@
       "ext": "https://ftyyy.tk/MeowXB/b01-555dy.js"
     },
     {
-      "key": "csp_biubiu_小猫咪",
-      "name": "🐞小 猫 咪(XP)",
+      "key": "300看世界",
+      "name": "🥎300看世界(V2)",
       "type": 3,
-      "api": "csp_XBiubiu",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ftyyy.tk/MeowXB/小猫咪.json"
+      "filterable": 1,
+      "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
     },
     {
       "key": "csp_xpath_dm84",
@@ -404,10 +367,19 @@
       "ext": "https://ftyyy.tk/MeowXP/dm84.json"
     },
     {
-      "key": "csp_xml___200121",
-      "name": "🐝200121",
+      "key": "csp_xml__淘片资源",
+      "name": "🐝淘片资源",
       "type": 1,
-      "api": "https://www.200121.com/api.php/provide/vod/",
+      "api": "https://taopianapi.com/home/cjapi/as/mc/vod/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_xml___小猫咪",
+      "name": "🐝小 猫 咪",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -420,15 +392,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_xml___光速资源",
-      "name": "🐝光速资源",
-      "type": 1,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
     }
   ],
   "lives": [
