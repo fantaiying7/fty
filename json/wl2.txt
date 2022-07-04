@@ -367,6 +367,16 @@
       "ext": "https://ftyyy.tk/MeowXP/dm84.json"
     },
     {
+      "key": "csp_appys_美剧虫",
+      "name": "⚾️美剧虫(V1)",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://meijuchong.com/api.php/v1.vod"
+    },
+    {
       "key": "小猫咪",
       "name": "🐝小猫咪(优)",
       "type": 1,
