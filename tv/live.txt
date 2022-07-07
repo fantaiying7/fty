@@ -637,12 +637,12 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
-中视新闻tv,https://tv.puboat.com/live.m3u8?c=21
-民视新闻tv,https://tv.puboat.com/live.m3u8?c=25
+中视新闻,https://tv.puboat.com/live.m3u8?c=21
+民视新闻,https://tv.puboat.com/live.m3u8?c=25
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻tv,https://tv.puboat.com/live.m3u8?c=27
+台视新闻,https://tv.puboat.com/live.m3u8?c=27
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 中天新闻,https://tv.puboat.com/live.m3u8?c=26
 @tv015
