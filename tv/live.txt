@@ -44,7 +44,7 @@ CCTV-3,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226
 CCTV-3,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 CCTV-4,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 CCTV-4,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225621/index.m3u8
-CCTV-4,,http://125.210.152.19:9090/live/hzgq-cctv4gq-h264.m3u8
+CCTV-4,http://125.210.152.19:9090/live/hzgq-cctv4gq-h264.m3u8
 CCTV-4,http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 CCTV-4,http://59.44.10.113:9901/tsfile/live/1045_1.m3u8
 CCTV-5,http://117.148.179.165/PLTV/88888888/224/3221231702/index.m3u8
@@ -539,7 +539,7 @@ CCTV-17农业,http://live.aikan.video.com/PLTV/88888888/224/3221231772/index.m3u
 汕头综合,rtp://239.253.43.30:5146
 汕头综合,rtp://239.253.43.45:5146?ChannelFECPort=01
 汕头综合,http://dslive.grtn.cn/stzh/playlist.m3u8
-汕头综合,,http://dslive.grtn.cn/stzh/sd/live.m3u8
+汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 汕头经济,rtp://239.77.1.131:5146
 汕头文体,rtp://239.253.43.44:5146
 汕头文体,rtp://239.253.43.47:5146
@@ -683,7 +683,7 @@ WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 华语电视3,http://38.64.72.148/hls/modn/list/4003/chunklist0.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-唯心台,http://124.238.99.44:808/hls/363/index.m3u8
+唯心,http://124.238.99.44:808/hls/363/index.m3u8
 國家地理野生頻道[1280*720],http://50.7.220.74:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
 大爱1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
