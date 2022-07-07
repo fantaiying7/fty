@@ -1,6 +1,5 @@
 {
-    "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-    "spider": "https://saulxxx.github.io/find614/jar/yun.jar",
+
     "lives": [
         {
             "group": "redirect",
