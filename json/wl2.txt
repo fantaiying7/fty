@@ -981,5 +981,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ftyyy.tk/jar/qj0706.jar"
+  "spider": "https://ftyyy.tk/jar/qj0706.jar;md5;85348d55ae2ce62b90b3e188c2f04911"
 }
