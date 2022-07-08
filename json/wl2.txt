@@ -216,6 +216,16 @@
       "ext": "https://ftyyy.tk/MeowXB/LIBVIO.json"
     },
     {
+      "key": "csp_biubiu_剧白白",
+      "name": "🐞剧白白(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ftyyy.tk/MeowXB/剧白白-蓝光.json"
+    },
+    {
       "key": "csp_biubiu_VIP1280",
       "name": "🐞VIP1280(XB)",
       "type": 3,
@@ -254,16 +264,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXB/骚火电影.json"
-    },
-    {
-      "key": "csp_biubiu_剧白白",
-      "name": "🐞剧白白(XB)",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://ftyyy.tk/main/MeowXB/剧白白-蓝光.json"
     },
     {
       "key": "csp_biubiu_黑洞影视",
