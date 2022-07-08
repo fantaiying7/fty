@@ -55,6 +55,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_Kmys",
+      "name": "🐯酷猫(SP)",
+      "type": 3,
+      "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Auete",
       "name": "🐶Auete(SP)",
       "type": 3,
@@ -972,5 +981,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ftyyy.tk/jar/0704.jar"
+  "spider": "https://ftyyy.tk/jar/qj0706.jar"
 }
