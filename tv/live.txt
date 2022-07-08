@@ -591,7 +591,6 @@ CCTV-5+,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225706/index.m
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来体育,rtmp://59.124.75.150/sat/tv721
 纬来体育,http://117.148.179.172:80/PLTV/88888888/224/3221231778/1.m3u8
-纬来体育,rtmp://59.124.75.150/sat/tv721
 ELTA体育1,rtmp://59.124.75.138/sat/md011
 ELTA体育2,rtmp://59.124.75.138/sat/md021
 博斯運動II[1280*720],http://50.7.220.74:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
@@ -639,6 +638,14 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 凤凰香港,http://www.fdkj.net:9901/tsfile/live/1018_1.m3u8
 明珠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2
 翡翠台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/1
+民视,rtmp://59.124.75.138/sat/tv051
+民视,rtmp://59.124.75.150/sat/tv051
+台视,rtmp://59.124.75.150/sat/tv071
+台视,rtmp://59.124.75.138/sat/tv071
+中视,rtmp://59.124.75.150/sat/tv091
+中视,rtmp://59.124.75.138/sat/tv091
+华视,rtmp://59.124.75.150/sat/tv111
+华视,rtmp://59.124.75.138/sat/tv111
 中视新闻,https://tv.puboat.com/live.m3u8?c=21
 民视新闻,https://tv.puboat.com/live.m3u8?c=25
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -646,10 +653,26 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,https://tv.puboat.com/live.m3u8?c=27
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-中天新闻,https://tv.puboat.com/live.m3u8?c=26
-@tv015
-环宇新闻,https://tv.puboat.com/live.m3u8?c=28
+中天新闻,https://tv.puboat.com/live.m3u8?c=26@tv015
+中天新闻,http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
+中天新闻,http://59.125.101.187:10703/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+中天新闻,http://59.125.101.187:10703/playlist.m3u8
+寰宇新闻,https://tv.puboat.com/live.m3u8?c=28
+寰宇新闻,http://59.125.101.187:10709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8
+寰宇新闻,http://59.125.101.187:10709/http/192.168.77.24:8066/hls/210/10016/cstv16.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+寰宇新闻,http://59.125.101.187:10709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8
+寰宇新闻,http://59.125.101.187:10709/http/192.168.77.24:8081/hls/76/818/ch62.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+年代MUCH,http://59.125.101.187:10701/playlist.m3u8
+年代MUCH,http://59.125.101.187:10729/http/192.168.77.24:8081/hls/72/814/ch45.m3u8
+年代MUCH,http://59.125.101.187:10775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8
+年代MUCH,http://59.125.101.187:10775/http/192.168.77.24:8081/hls/64/806/ch15.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+年代MUCH,http://59.125.101.187:10775/playlist.m3u8
 东森新闻,https://tv.puboat.com/live.m3u8?c=29
+东森新闻,http://59.125.101.187:10702/playlist.m3u8
+非凡新闻,http://59.125.101.187:10706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8
+非凡新闻,http://59.125.101.187:10706/http/192.168.77.24:8081/hls/75/817/ch57.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
+壹新闻,http://59.125.101.187:10710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8
+壹新闻,http://59.125.101.187:10710/http/192.168.77.24:8081/hls/66/808/ch24.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 EYE TV戲劇[1280*720],http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
 EYE TV旅遊[1280*720],http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc
 GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
@@ -666,6 +689,11 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 WWE[1280*720],http://50.7.220.74:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
 WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 三立綜合[1280*720],http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+三立都会,http://59.125.101.187:10732/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
+三立台湾,http://59.125.101.187:10501/playlist.m3u8
+三立台湾,http://59.125.101.187:10731/playlist.m3u8
+三立新闻,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8
+三立新闻,http://59.125.101.187:10756/http/192.168.77.24:8081/hls/65/807/ch18.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d
 东森美洲,http://38.64.72.148:80/hls/modn/list/2026/chunklist0.m3u8
 东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 中國電影[1280*720],http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
