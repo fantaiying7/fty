@@ -177,24 +177,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_xml___小猫咪",
-      "name": "🐝小猫咪(采)",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "天堂资源",
-      "name": "🐝天堂资源(官)",
-      "type": 1,
-      "api": "http://vipmv.cc/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_biubiu_蓝光影院",
       "name": "🐞蓝光影院(XB)",
       "type": 3,
@@ -373,6 +355,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/dm84.json"
+    },
+    {
+      "key": "csp_xml___小猫咪",
+      "name": "🐝小猫咪(采)",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "天堂资源",
+      "name": "🐝天堂资源(官)",
+      "type": 1,
+      "api": "http://vipmv.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [
@@ -462,32 +462,6 @@
       }
     },
     {
-      "name": "parwix1",
-      "type": 0,
-      "url": "https://jx.parwix.com:4433/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ]
-      }
-    },
-    {
       "name": "盘古解析",
       "type": 1,
       "url": "https://json.pangujiexi.com:12345/json.php?url=",
@@ -533,6 +507,32 @@
           "renrenmi",
           "rx",
           "rongxing"
+        ]
+      }
+    },
+    {
+      "name": "parwix1",
+      "type": 0,
+      "url": "https://jx.parwix.com:4433/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
         ]
       }
     },
