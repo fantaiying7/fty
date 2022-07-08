@@ -524,6 +524,24 @@
       }
     },
     {
+      "name": "五一解析",
+      "type": 1,
+      "url": "https://json.5lp.net/json.php?url=",
+      "ext": {
+        "flag": [
+          "ltnb",
+          "renrenmi",
+          "rx",
+          "rongxing"
+        ]
+      }
+    },
+    {
+      "name": "1717",
+      "type": 1,
+      "url": "https://www.1717yun.com/api/?url="
+    },
+    {
       "name": "CL4K02",
       "type": 0,
       "url": "https://app.okmedcos.com/4k/?url=",
@@ -598,19 +616,6 @@
       }
     },
     {
-      "name": "五一解析",
-      "type": 1,
-      "url": "https://json.5lp.net/json.php?url=",
-      "ext": {
-        "flag": [
-          "ltnb",
-          "renrenmi",
-          "rx",
-          "rongxing"
-        ]
-      }
-    },
-    {
       "name": "jx36",
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=9105801&key=huwxFGILMOQSTUZ679&url=",
@@ -661,27 +666,12 @@
       }
     },
     {
-      "name": "M117",
-      "type": 0,
-      "url": "http://1.117.152.239:39000/?url="
-    },
-    {
       "name": "xuerenweb",
       "type": 0,
       "url": "https://s.2tu.uk/?url=",
       "ext": {
         "flag": [
           "xueren"
-        ]
-      }
-    },
-    {
-      "name": "miao",
-      "type": 0,
-      "url": "https://jx.58g8.com/1/?url=",
-      "ext": {
-        "flag": [
-          "miaoparty"
         ]
       }
     },
