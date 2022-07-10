@@ -771,7 +771,10 @@
     "xmm",
     "xigua",
     "m1905 ",
-    "funshion "
+    "funshion ",
+"优酷","芒果","腾讯","爱奇艺","奇艺", "哔哩哔哩",
+          "哔哩""ltnb","rx","CL4K","xfyun","wuduzy"
+
   ],
   "ijk": [
     {
