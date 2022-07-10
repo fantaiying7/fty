@@ -490,13 +490,8 @@
       "url": "https://jx.hfyrw.com/mao.go?url="
     },
     {
-      "name": "小猫咪",
-      "type": 1,
-      "url": "https://api.xiaomaomi.tv/home/api?type=ys&uid=5043601&key=mvwxzEGIKLQRY02378&url="
-    },
-    {
       "name": "盘古解析",
-      "type": 0,
+      "type": 1,
       "url": "https://json.pangujiexi.com:12345/json.php?url=",
       "ext": {
         "flag": [
@@ -514,7 +509,7 @@
     },
     {
       "name": "江湖解析",
-      "type": 0,
+      "type": 1,
       "url": "https://api.jhdyw.vip/?url=",
       "ext": {
         "flag": [
@@ -542,6 +537,11 @@
           "rongxing"
         ]
       }
+    },
+    {
+      "name": "小猫咪",
+      "type": 1,
+      "url": "https://api.xiaomaomi.tv/home/api?type=ys&uid=5043601&key=mvwxzEGIKLQRY02378&url="
     },
     {
       "name": "parwix1",
