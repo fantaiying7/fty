@@ -165,8 +165,7 @@
       "api": "csp_AliPanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "ext": "27b06d5221a24199b15f2e573d847430"
+      "filterable": 0
     },
     {
       "key": "csp_SP360",
@@ -184,8 +183,7 @@
       "api": "csp_PushAgent",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "27b06d5221a24199b15f2e573d847430"
+      "filterable": 0
     },
     {
       "key": "csp_biubiu_剧白白",
