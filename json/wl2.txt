@@ -91,6 +91,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_Tkys",
+      "name": "天空影视(SP)",
+      "type": 3,
+      "api": "csp_Tkys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_appys_美剧虫",
       "name": "🐝美剧虫(V1)",
       "type": 3,
@@ -109,6 +118,15 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://300ys.xyz/mogai_api.php/v1.vod"
+    },
+    {
+      "key": "csp_Mjxq",
+      "name": "美剧星球(SP)",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_BBB",
@@ -215,6 +233,7 @@
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXB/LIBVIO.json"
     },
+    {"key":"csp_biubiu_完美看看"    ,"name":"🐛完美看看","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ftyyy.tk/MeowXB//完美看看影视.json"},
     {
       "key": "csp_biubiu_骚火电影",
       "name": "🐞骚火电影(XB)",
@@ -908,5 +927,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://ftyyy.tk/jar/qj0706.jar;md5;85348d55ae2ce62b90b3e188c2f04911"
+  "spider": "https://ftyyy.tk/jar/custom_spider_220711.jar;md5;1026ef9a5e78c1f00887c13142d50f3b"
 }
