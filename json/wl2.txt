@@ -169,7 +169,7 @@
     },
     {
       "key": "csp_AliPanSou",
-      "name": "🐱喵搜(只支持搜索)",
+      "name": "🐱喵搜(只搜索)",
       "type": 3,
       "api": "csp_AliPanSou",
       "searchable": 1,
@@ -217,7 +217,7 @@
     },
     {
       "key": "csp_biubiu_完美看看",
-      "name": "👀完美看看",
+      "name": "👀完美看看(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -394,15 +394,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_xml___小猫咪",
-      "name": "🐝小猫咪(采)",
-      "type": 1,
-      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "天堂资源",
       "name": "🐝天堂资源(官)",
       "type": 1,
@@ -410,6 +401,15 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_xml___小猫咪",
+      "name": "🐝小猫咪(采)",
+      "type": 1,
+      "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
