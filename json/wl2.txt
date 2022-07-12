@@ -186,24 +186,6 @@
       "filterable": 0
     },
     {
-      "key": "csp_Mjxq",
-      "name": "🌏美剧星球(SP)",
-      "type": 3,
-      "api": "csp_Mjxq",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_SP360",
-      "name": "🎾360(SP)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_biubiu_剧白白",
       "name": "🐴剧白白(XB)",
       "type": 3,
@@ -392,6 +374,24 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/dm84.json"
+    },
+    {
+      "key": "csp_Mjxq",
+      "name": "🌏美剧星球(SP)",
+      "type": 3,
+      "api": "csp_Mjxq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_SP360",
+      "name": "🎾360(SP)",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_xml___小猫咪",
