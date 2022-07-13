@@ -375,6 +375,7 @@
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/dm84.json"
     },
+    {"key": "csp_哔嘀","name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ftyyy.tk/MeowXP/bidi.json"},
     {
       "key": "csp_Mjxq",
       "name": "🌏美剧星球(SP)",
