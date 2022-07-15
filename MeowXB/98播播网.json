@@ -1,6 +1,6 @@
 {
   "name": "98播播网",
-  "url": "https://98bbw.com/",
+  "url": "https://98bbw.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
   "fenlei": "电影$/whole/1/page/#电视剧$/whole/2/page/#国产剧$/whole/2/area/中国大陆/page/#港剧$/whole/2/area/中国香港/page/#韩剧$/whole/3/page/#日剧$/whole/5/page/#美剧$/whole/4/page/#综艺$/whole/22/page/#国产动漫$/whole/26/page/#日本动漫$/whole/25/page/#更新$/label/new",
@@ -16,6 +16,11 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "",
+  "fubiaotihou": "",
+
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/show/",

@@ -11,15 +11,20 @@
   "jiequqian": "空",
   "jiequhou": "空",
   "jiequshuzuqian": "<li>",
-  "jiequshuzuhou": "</span>",
+  "jiequshuzuhou": "</li>",
   "tupianqian": "original=\"",
   "tupianhou": "\"",
   "biaotiqian": "alt=\"",
   "biaotihou": "\"",
   "lianjieqian": "qianoo.cn",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "span>",
+  "fubiaotihou": "</span",
+
   "sousuoqian": "/xssearch?q=",
-  "sousuohou": "",
+  "sousuohou": "&limit=500",
   "sousuohouzhui": "/movie/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",
