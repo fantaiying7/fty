@@ -266,6 +266,16 @@
       "ext": "https://ftyyy.tk/MeowXB/爱港剧.json"
     },
     {
+      "key": "csp_biubiu_韩剧佬",
+      "name": "🐛韩剧佬(XP)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://fty.nde.tw/tvb/MeowXB/韩剧佬.json"
+    },
+    {
       "key": "csp_XBiubiu_lezhu",
       "name": "🐷乐猪影视(XB)",
       "type": 3,
