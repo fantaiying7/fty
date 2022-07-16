@@ -894,5 +894,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1280/720/?blur=10",
-  "spider": "https://fty.nde.tw/tvb/jar/diejia4.jar"
+  "spider": "https://fty.nde.tw/tvb/jar/diejia4.jar;md5;6735ff2f80e1170e355698cc57dba9c7"
 }
