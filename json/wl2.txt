@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://fty.nde.tw/tvb/MeowXP/88kanqiu.json"
+      "ext": "https://ftyyy.tk/MeowXP/88kanqiu.json"
     },
     {
       "key": "csp_xpath_qiumi",
@@ -164,7 +164,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXP/qiumi.json"
+      "ext": "https://ftyyy.tk/MeowXP/qiumi.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -174,7 +174,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://fty.nde.tw/tvb/MeowXP/kuqimv.json"
+      "ext": "https://ftyyy.tk/MeowXP/kuqimv.json"
     },
     {
       "key": "csp_GitCafe",
@@ -220,7 +220,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/剧白白-蓝光.json"
+      "ext": "https://ftyyy.tk/MeowXB/剧白白-蓝光.json"
     },
     {
       "key": "csp_biubiu_达达龟",
@@ -230,7 +230,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/达达龟.json"
+      "ext": "https://ftyyy.tk/MeowXB/达达龟.json"
     },
     {
       "key": "csp_XBiubiu_libvio",
@@ -240,7 +240,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/LIBVIO.json"
+      "ext": "https://ftyyy.tk/MeowXB/LIBVIO.json"
     },
     {
       "key": "csp_biubiu_完美看看",
@@ -250,7 +250,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://fty.nde.tw/tvb/MeowXB//完美看看影视.json"
+      "ext": "https://ftyyy.tk/MeowXB//完美看看影视.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -260,7 +260,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/骚火电影.json"
+      "ext": "https://ftyyy.tk/MeowXB/骚火电影.json"
     },
     {
       "key": "csp_biubiu_黑洞影视",
@@ -270,7 +270,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/黑洞影视.json"
+      "ext": "https://ftyyy.tk/MeowXB/黑洞影视.json"
     },
     {
       "key": "csp_biubiu_在线之家",
@@ -280,7 +280,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/在线之家.json"
+      "ext": "https://ftyyy.tk/MeowXB/在线之家.json"
     },
     {
       "key": "csp_biubiu_爱港剧",
@@ -290,7 +290,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/爱港剧.json"
+      "ext": "https://ftyyy.tk/MeowXB/爱港剧.json"
     },
     {
       "key": "csp_XBiubiu_lezhu",
@@ -300,7 +300,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/乐猪影视.json"
+      "ext": "https://ftyyy.tk/MeowXB/乐猪影视.json"
     },
     {
       "key": "csp_biubiu_小熊影视",
@@ -310,7 +310,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/小熊影视.json"
+      "ext": "https://ftyyy.tk/MeowXB/小熊影视.json"
     },
     {
       "key": "csp_biubiu_蓝光影院",
@@ -320,7 +320,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/蓝光影视.json"
+      "ext": "https://ftyyy.tk/MeowXB/蓝光影视.json"
     },
     {
       "key": "csp_biubiu_大米星球",
@@ -330,7 +330,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/a13-dmxq.js"
+      "ext": "https://ftyyy.tk/MeowXB/a13-dmxq.js"
     },
     {
       "key": "csp_biubiu_87影院",
@@ -340,7 +340,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/87影院.json"
+      "ext": "https://ftyyy.tk/MeowXB/87影院.json"
     },
     {
       "key": "csp_XBiubiu_555",
@@ -350,7 +350,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/b01-555dy.js"
+      "ext": "https://ftyyy.tk/MeowXB/b01-555dy.js"
     },
     {
       "key": "csp_biubiu_VIP1280",
@@ -360,7 +360,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/VIP1280.json"
+      "ext": "https://ftyyy.tk/MeowXB/VIP1280.json"
     },
     {
       "key": "csp_XBiubiu_ysgc",
@@ -370,7 +370,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/影视工厂.json"
+      "ext": "https://ftyyy.tk/MeowXB/影视工厂.json"
     },
     {
       "key": "csp_biubiu_火火影视",
@@ -380,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/火火影视.json"
+      "ext": "https://ftyyy.tk/MeowXB/火火影视.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -390,7 +390,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/tegou.json"
+      "ext": "https://ftyyy.tk/MeowXB/tegou.json"
     },
     {
       "key": "csp_biubiu_韩剧佬",
@@ -400,7 +400,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://fty.nde.tw/tvb/MeowXB/韩剧佬.json"
+      "ext": "https://ftyyy.tk/MeowXB/韩剧佬.json"
     },
     {
       "key": "csp_xpath_dm84",
@@ -410,7 +410,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXP/dm84.json"
+      "ext": "https://ftyyy.tk/MeowXP/dm84.json"
     },
     {
       "key": "csp_Mjxq",
@@ -438,7 +438,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://fty.nde.tw/tvb/MeowXP/biditd.json"
+      "ext": "https://ftyyy.tk/MeowXP/biditd.json"
     },
     {
       "key": "天堂资源",
