@@ -195,8 +195,8 @@
       "filterable": 0
     },
     {
-      "key": "csp_磁力搜",
-      "name": "🚀磁力搜(SP)",
+      "key": "csp_找资源",
+      "name": "🚀找资源(只搜索)",
       "type": 3,
       "api": "csp_FindZY",
       "searchable": 1,
