@@ -291,7 +291,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ftyyy.tk/MeowXB/蓝光影视.json"
+      "ext": "https://ftyyy.tk/MeowXB/蓝光影院.json"
     },
     {
       "key": "csp_biubiu_大米星球",
