@@ -46,15 +46,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_libvio",
-      "name": "🚬libvio(SP)",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "csp_IKan",
       "name": "💖爱看(SP)",
       "type": 3,
@@ -77,6 +68,15 @@
       "name": "🐯酷猫(SP)",
       "type": 3,
       "api": "csp_Kmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_libvio",
+      "name": "🚬libvio(SP)",
+      "type": 3,
+      "api": "csp_Lib",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -231,6 +231,16 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXB/达达龟.json"
+    },
+    {
+      "key": "csp_biubiu_看片狂人",
+      "name": "🥒看片狂人(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ftyyy.tk/MeowXB/看片狂人.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
