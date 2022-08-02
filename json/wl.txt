@@ -259,20 +259,20 @@
       "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/dm84.json"
     },
     {
-      "key": "csp_xpath_哔嘀磁力",
+      "key": "csp_Xpbd_哔嘀磁力",
       "name": "🐛哔嘀磁力(XP)",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Xpbd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ftyyy.tk/MeowXP/biditd.json"
     },
     {
-      "key": "csp_xpath_音范丝磁力",
+      "key": "csp_Xpbd_音范丝磁力",
       "name": "🐛音范丝磁力(XP)",
       "type": 3,
-      "api": "csp_XPath",
+      "api": "csp_Xpbd",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
