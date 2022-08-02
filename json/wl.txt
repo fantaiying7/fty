@@ -1,6 +1,6 @@
 {
 
-"spider":"https://ftyyy.tk/jar/xxoo801.jar",
+"spider":"https://ftyyy.tk/jar/xxoo801.jar:md5:a9092f46fecbc5c2f649e3b1a3632360",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 
