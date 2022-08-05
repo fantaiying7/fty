@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXB2/555电影.json"
+      "ext": "https://ftyyy.tk/MeowXB/555电影.json"
     },
     {
       "key": "csp_biubiu_VIP1280",
