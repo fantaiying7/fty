@@ -1,9 +1,5 @@
 {
 
-"spider":"https://ftyyy.tk/jar/xxoo805.jar;md5;4fe77a9197c8641941e664b0718120cd",
-"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"sites":[
-
 
 
 {
@@ -256,20 +252,7 @@
     }
 
 ],
-"lives":[
-{
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "redirect",
-          "urls": [           
-         
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vZ2FpZ2FpL2dvdWdvdS9yYXcvYnJhbmNoL21haW4vMDcwNnpiLnR4dA=="
-          ]
-        }
-      ]
-    }
-],
+
  "parses": [
    {"name":"解析聚合","type":3,"url":"Demo"},
     {"name":"Json并发","type":2,"url":"Parallel"},
