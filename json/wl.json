@@ -198,6 +198,16 @@
       "filterable": 0,
       "ext": "https://ftyyy.tk/MeowXB/韩剧佬.json"
     },
+{
+      "key": "csp_biubiu_zb8",
+      "name": "🐛zb8(XP)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ftyyy.tk/MeowXB/zb8.json"
+    },
     {
       "key": "csp_xpath_meiju562",
       "name": "🐛美剧网(XPF)",
