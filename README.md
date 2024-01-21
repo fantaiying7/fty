@@ -1,2 +1,3 @@
- fty
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+ fty可部署于：https://dartnode.com/
+ 
+![Image text]([https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg](https://camo.githubusercontent.com/f7257b93fd530ca1eb27b78dc855317273936c3e8c977f3a7dbb666cd4935829/68747470733a2f2f646172746e6f64652e636f6d2f6173736574732f646173682f696d616765732f6272616e642f66617669636f6e2e706e67)https://camo.githubusercontent.com/f7257b93fd530ca1eb27b78dc855317273936c3e8c977f3a7dbb666cd4935829/68747470733a2f2f646172746e6f64652e636f6d2f6173736574732f646173682f696d616765732f6272616e642f66617669636f6e2e706e67)
