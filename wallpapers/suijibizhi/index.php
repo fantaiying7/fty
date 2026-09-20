@@ -6,7 +6,6 @@ function has_query($query)
 {
     return isset($_GET[$query]);
 }
-
 if (file_exists(__DIR__ . '/url.csv')) // in the same folder
     $imgs_array = file(__DIR__ . '/url.csv', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 else if (file_exists('../url.csv'))    // in the parent folder
